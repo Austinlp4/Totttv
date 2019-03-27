@@ -22,7 +22,7 @@ const NavBar = styled.div`
     display: flex;
     justify-content: space-between;
     padding: 0 50px 0 30px;
-    width: 100%;
+    width: 95.8%;
     background-color: black;
     color: white;
 `;
