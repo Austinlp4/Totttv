@@ -34,7 +34,7 @@ const UVP = styled.div`
 const CardCont = styled.div`
     display: flex;
     justify-content: space-between;
-    background-color: black;
+    background-color: white;
     padding: 50px 15%;
     div{
         background-color: rgba(97, 90, 122, .5);

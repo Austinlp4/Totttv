@@ -23,8 +23,8 @@ const NavBar = styled.div`
     justify-content: space-between;
     padding: 0 50px 0 30px;
     width: 95.8%;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
 `;
 
 const Links = styled.div`
